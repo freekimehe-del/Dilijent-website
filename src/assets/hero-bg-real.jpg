@@ -1,0 +1,1516 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<title>404 Request not found</title>
+
+<meta name="description" content="Dilijent Systems is a ...">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="theme-color" content="#ed3e1e">
+
+
+<meta property="og:title" content="404 Request not found">
+
+<meta property="og:description" content="Dilijent Systems is a ...">
+
+<meta property="og:url" content="https://dilijentsystems.com/">
+
+
+<link rel="icon" href="/assets/favicons/favicon@32x32.ico" type="image/x-icon">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/favicon@180x180.png">
+
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon@32x32.png">
+
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon@16x16.png">
+
+<link rel="manifest" href="/pages/webmanifest.json">
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KLZFGL3SHH"></script>
+
+<script>
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+
+        dataLayer.push(arguments);
+
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-KLZFGL3SHH');
+
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;700&family=Rubik:wght@300;400&display=swap" rel="stylesheet">
+
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" as="style" onload="this.rel='stylesheet'">
+
+<noscript>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
+</noscript>
+
+
+    <!-- If bundles are enabled, load minified CSS -->
+
+    <link rel="stylesheet" href="/assets/css/bundle.min.css" type="text/css" />
+
+    <link rel="stylesheet" href="/assets/css/style.css" type="text/css" media="all" />
+
+    <link rel="stylesheet" href="/assets/css/meeting-modal.css" type="text/css" media="all" />
+
+
+
+
+</head>
+
+</html>
+
+
+
+
+
+<header id="main-header" style="width: 100%;">
+
+    <!--
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.24/mmenu.css">
+
+    -->
+
+    
+
+  <div style="background: #fff; padding: 8px 0; border-bottom: 1px solid #e5e5e5;">
+
+    <div class="header-inner" style="display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+
+      <!-- Logo -->
+
+      <div class="logo-mobile" style="display: flex; align-items: baseline; padding: 0; margin: 0;">
+
+        <img src="/assets/images/logo/logo-white.png" alt="IT & RCM solutions provider" style="height: 55px; display: block; margin-right: 0;">
+
+      </div>
+
+      <!-- Contact Info -->
+
+      <div class="contact-info-mobile" style="display: flex; align-items: center; gap: 30px;">
+
+        <a href="tel:+1 5125754630" style="color: #1B182B; text-decoration: none; display: flex; align-items: center; gap: 5px;">
+
+          <i class="fas fa-phone"></i> +1 (512)-575-4630
+
+        </a>
+
+        <a href="mailto:sales@dilijentsystems.com?
+
+        subject=Website%20Inquiry&body=Hello%20Dilljent%20Team," style="color: #1B182B; text-decoration: none; display: flex; align-items: center; gap: 5px;">
+
+          <i class="fas fa-envelope"></i>             <a href="mailto:sales@dilijentsystems.com">sales@dilijentsystems.com</a>
+
+        </a>
+
+        <div style="display: flex; align-items: center; gap: 5px; color: #1B182B;">
+
+          <i class="fas fa-map-marker-alt"></i> USA
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+<style>
+
+/* =========================
+   EVENLY SPREAD MENU ITEMS
+========================= */
+
+.dreamit_menu .nav_scroll {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.dreamit_menu .nav_scroll > li {
+
+  margin: 0 20px; /* spacing for main menu items */
+
+}
+
+
+
+.dreamit_menu .sub-menu li {
+  margin: 0; /* no margin inside submenus */
+  padding: 0; /* optional reset */
+
+}
+
+
+
+ 
+
+@media (max-width: 767px) {
+
+  #main-header {
+    display: none !important;
+  }
+
+}
+
+
+
+ #sticky-header .row.align-items-center {
+
+  display: flex;
+  align-items: center; /* vertical center */
+}
+
+
+
+#sticky-header .logo {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+#sticky-header .logo img {
+  height: 70px; /* increase size */
+  display: block;
+  margin: 0 auto;
+}
+
+
+</style>
+
+<div id="sticky-header" class="dreamit_nav_manu style-two static-black" >
+
+	<div class="container" width="800" height="200" >
+
+		<div class="row align-items-center">
+
+			<div class="col-lg-3">
+
+			
+
+			</div>
+
+			<div class="col-lg-10">
+
+				<nav class="dreamit_menu text-center">
+
+					<ul class="nav_scroll">
+
+					    <li><li><a href="/">HOME</a></li>
+
+						<li><a href="/about">ABOUT</a></li>
+
+						<li><a href="javascript:void(0)" role="presentation" rel="nofollow noreferrer">SERVICES
+
+								<span><i class="fas fa-angle-down"></i></span>
+
+							</a>
+
+
+
+							<ul class="sub-menu">
+
+								<li><a href="/services/revenue-cycle-management-services">Revenue Management Cycle</a>
+
+									<ul class="sub-menu">
+
+										<li><a href="/services/medical-billing-services">Medical Billing</a></li>
+
+                                        <li><a href="/services/medical-coding-services">Medical Coding</a></li>
+
+                                        <li><a href="/services/medical-credentialing-services">Medical Credentialing</a></li>
+
+                                        <li><a href="/services/denial-management-services">Denial Management Services</a></li>
+
+                                        <li><a href="/services/medical-billing-audit">Medical Billing Audit</a></li>
+
+                                        <li><a href="/services/account-receiveable-management">Account Receivable Management</a></li>
+
+                                        <li><a href="/services/home-health-hospice-billing">Home Health & Hospice Billing</a></li>
+
+									
+
+									</ul>
+
+
+
+								</li>
+
+								
+
+								<li><a href="/services/software-development-services">Software Development</a>
+
+
+
+									<ul class="sub-menu">
+
+									<li><a href="/services/mobile-app-development">Mobile App Development</a></li>
+
+                  <li><a href="/services/search-engine-optimization">SEO</a></li>
+
+                                    <li><a href="/services/cloud-consulting-services">Cloud Computing</a></li>
+
+                                    <li><a href="/services/artificial-intelligence-machine-learning">AI/ML Applications</a></li>
+
+                                    <li><a href="/services/video-animation">Video Animation</a></li>
+
+                                    <li><a href="/services/business-intelligence">Business Intelligence</a></li>
+
+                                    <li><a href="/services/web-development">Web Development</a></li>
+
+                                    <li><a href="/services/e-commerce">E-Commerce Development</a></li>
+
+                                    <li><a href="/services/robotic-process-automation">Robotic Automation</a></li>
+
+                                    <li><a href="/services/healthcare-biotech-software">Biotech Software</a></li>
+
+                                    <li><a href="/services/quantum-computing-services">Quantum Computing</a></li>
+
+										
+
+									</ul>
+
+								</li>
+
+							</ul>
+
+						</li>
+
+
+
+						
+						<li><a href="/blogs">BLOG</a></li>
+
+						<li><a href="/faqs">FAQS</a></li>
+
+						
+
+						<li><a href="/#contact-us">CONTACT US</a></li>
+
+					</ul>
+
+					
+
+				</nav>
+
+			</div>
+
+			<div class="lines style-three">
+
+				<div class="line"></div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<!-- Mobile Menu Area -->
+
+
+
+
+
+
+
+
+<div class="mobile-menu-area d-sm-block d-md-block d-lg-none ">
+
+	<div class="mobile-menu mean-container">
+
+		<div class="mean-bar">
+
+
+
+<a href="#" class="meanmenu-reveal" aria-controls="mobile-primary" aria-expanded="false">
+
+				<span></span>
+
+				<span></span>
+
+				<span></span>
+
+			</a>
+
+
+
+			<nav class="mean-nav">
+
+				<ul id="mobile-primary" class="nav_scroll" style="display:none">
+
+					<li><a href="/">HOME</a></li>
+
+					<li><a href="/about">ABOUT</a></li>
+
+					<li>
+
+  <a href="javascript:void(0)" role="presentation">SERVICES <span><i class="fas fa-angle-down"></i></span></a>
+
+  <ul class="sub-menu">
+
+    <!-- Revenue Cycle Management -->
+
+    <li>
+
+      <a href="/services/revenue-cycle-management-services">REVENUE CYCLE  MANAGEMENT</i></span></a>
+
+      <ul class="sub-menu">
+
+        <li><a href="/services/medical-billing-services">Medical Billing</a></li>
+
+        <li><a href="/services/medical-coding-services">Medical Coding</a></li>
+
+        <li><a href="/services/medical-credentialing-services">Medical Credentialing</a></li>
+
+        <li><a href="/services/denial-management-services">Denial Management Services</a></li>
+
+        <li><a href="/services/medical-billing-audit">Medical Billing Audit</a></li>
+
+        <li><a href="/services/account-receiveable-management">Account Receivable Management</a></li>
+
+        <li><a href="/services/home-health-hospice-billing">Home Health & Hospice Billing</a></li>
+
+      </ul>
+
+    </li>
+
+
+
+    <!-- Software Development -->
+
+    <li>
+
+      <a href="/services/software-development-services">SOFTWARE DEVELOPMENT </i></span></a>
+
+      <ul class="sub-menu">
+
+        <li><a href="/services/mobile-app-development">Mobile App Development</a></li>
+
+        <li><a href="/services/search-engine-optimization">SEO</a></li>
+
+        <li><a href="/services/cloud-consulting-services">Cloud Computing</a></li>
+
+        <li><a href="/services/artificial-intelligence-machine-learning">AI/ML Applications</a></li>
+
+        <li><a href="/services/video-animation">Video Animation</a></li>
+
+        <li><a href="/services/business-intelligence">Business Intelligence</a></li>
+
+        <li><a href="/services/web-development">Web Development</a></li>
+
+        <li><a href="/services/e-commerce">E-Commerce Development</a></li>
+
+        <li><a href="/services/robotic-process-automation">Robotic Automation</a></li>
+
+        <li><a href="/services/healthcare-biotech-software">Biotech Software</a></li>
+
+        <li><a href="/services/quantum-computing-services">Quantum Computing</a></li>
+
+      </ul>
+
+    </li>
+
+  </ul>
+
+</li>
+
+					
+
+
+					<li><a href="/blogs">BLOG</a></li>
+
+					<li><a href="/faqs">FAQS</a></li>
+
+					
+
+					<li><a href="#contact-us">CONTACT US</a></li>
+
+				<!--	<li class="mean-last"><a href="#" id="mobileTriggerMeeting">Schedule Meeting</a></li> -->
+
+				</ul>
+
+			</nav>
+
+
+
+		</div>
+
+
+
+
+
+
+
+	</div>
+
+</div>
+
+<script>
+
+
+
+/*
+
+
+
+document.addEventListener('DOMContentLoaded', function () {
+
+  // Main toggle (hamburger)
+
+  var trigger = document.querySelector('.mobile-menu .meanmenu-reveal');
+
+  var menu    = document.querySelector('.mobile-menu .mean-nav > ul');
+
+
+
+  if (trigger && menu) {
+
+    // Ensure it's hidden initially
+
+    if (!menu.style.display) menu.style.display = 'none';
+
+
+
+    trigger.addEventListener('click', function (e) {
+
+      e.preventDefault();
+
+      var isOpen = menu.style.display === 'block';
+
+      menu.style.display = isOpen ? 'none' : 'block';
+
+      trigger.classList.toggle('open', !isOpen);
+
+      trigger.setAttribute('aria-expanded', String(!isOpen));
+
+    });
+
+  }
+
+
+
+  // Submenu expanders
+
+  document.querySelectorAll('.mobile-menu .mean-nav .mean-expand').forEach(function (btn) {
+
+    btn.addEventListener('click', function (e) {
+
+      e.preventDefault();
+
+      var sub = btn.previousElementSibling;
+
+      if (sub && sub.classList.contains('sub-menu')) {
+
+        var open = sub.style.display === 'block';
+
+        sub.style.display = open ? 'none' : 'block';
+
+        btn.textContent = open ? '+' : '−';
+
+      }
+
+    });
+
+  });
+
+
+
+  // Allow tapping parent label to expand if it has a submenu but no valid href
+
+  document.querySelectorAll('.mobile-menu .mean-nav li > a').forEach(function (a) {
+
+    var sub = a.parentElement.querySelector(':scope > .sub-menu');
+
+    if (sub) {
+
+      if (!sub.style.display) sub.style.display = 'none';
+
+      if (!a.getAttribute('href') || a.getAttribute('href') === '#' || a.getAttribute('href').startsWith('javascript')) {
+
+        a.addEventListener('click', function (e) {
+
+          e.preventDefault();
+
+          var open = sub.style.display === 'block';
+
+          sub.style.display = open ? 'none' : 'block';
+
+        });
+
+      }
+
+    }
+
+  });
+
+});
+
+*/
+
+</script>
+
+
+
+
+
+
+
+<div class="row header-clear">
+    <div class="container" style="padding-top: 100px; padding-bottom: 100px">
+
+        <div class="col-12">
+        
+        <div>
+            <h3 style="text-align: center; color: red;">Error : 404</h3>
+        </div>
+
+        <section>
+
+            <h3 style="text-align: center; font-size: 20px;">404 Request not found</h3>
+
+        </section>
+
+        
+        </div>
+
+    </div>
+
+</div>
+<div class="footer-clear"></div>
+<!--==================================================-->
+
+<!-- Start dreamit Footer Middle Area -->
+
+<!--==================================================-->
+
+<div class="footer-middle">
+
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Company Info -->
+
+            <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+
+                <div class="widget-widgets-company-info white">
+
+                    <div class="dreamit-logo" style="margin-bottom:10px;margin-left:0;">
+
+                        <a class="logo_img" href="/" title="dreamit">
+
+                            <img src="/assets/images/logo-sticky.png" width="300" height="84" alt="" />
+
+                        </a>
+
+                    </div>
+
+                    <div class="company-info-desc">
+
+                        <p style="color: #fff; margin-top:0;padding-top:0; margin-bottom:22px;">
+
+                            Dilijent Systems is a full-service IT, 
+
+                            <a href="https://dilijentsystems.com/services/revenue-cycle-management-services"
+
+                               style="color: #fff; text-decoration: none;font-weight: 700;"
+
+                               onmouseover="this.style.color='#ED2B22'; this.style.textDecoration='none';"
+
+                               onmouseout="this.style.color='#fff'; this.style.textDecoration='none';">
+
+                               Revenue Cycle Management Services
+
+                            </a> 
+
+                            and Digital Solutions company that provides bespoke solutions combined with cutting-edge technology and mind-blowing in-house ideas to convert your thoughts into appealing visuals.
+
+                        </p>
+
+                    </div>
+
+                    <div class="footer-inner">
+
+                        <div class="footer-socail-icon">
+
+                            <i class="fa fa-phone"></i>
+
+                        </div>
+
+                        <div class="footer-socail-info">
+
+                            <p>
+
+                                <a href="tel:+15125754630" class="text-white"><span>+ 1 (512) -575-4630</span></a>
+
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="footer-inner">
+
+                        <div class="footer-socail-icon">
+
+                            <i class="far fa-envelope"></i>
+
+                        </div>
+
+                        <div class="footer-socail-info">
+
+                            <p><a href="mailto:sales@dilijentsystems.com" class="text-white" target="_blank">sales@dilijentsystems.com</a></p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="footer-inner">
+
+                        <div class="footer-socail-icon">
+
+                            <i class="fa fa-map-marker"></i>
+
+                        </div>
+
+                        <div class="footer-socail-info2">
+
+                            <p>5900 Balcones Drive, STE 14634 Austin, TX 78731</p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Quick Links -->
+
+            <div class="col-lg-2 col-md-6 col-sm-12 mb-4">
+
+                <div class="widget widget-nav-menu">
+
+                    <h4 class="widget-title"><span>Q</span>UICK LINKS</h4>
+
+                    <div class="menu-quick-link-content">
+
+                        <ul class="menu">
+
+                            <li><a href="/">Home</a></li>
+
+                            <li><a href="/about">About Us</a></li>
+
+                            <li><a href="/blogs">Blogs</a></li>
+
+                            <li><a href="/faqs">Faqs</a></li>
+
+                            <li><a href="/career">Career</a></li>
+
+                            <li><a href="/privacy-policy">Privacy</a></li>
+
+                            <li><a href="/terms">Terms</a></li>
+
+                            <li><a href="/#contact-us" role="presentation" rel="nofollow noreferrer" data-nav="internal" role="button">Contact Us</a></li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Our Services (TWO COLUMNS inside one col-6) -->
+
+            <div class="col-lg-6 col-md-12 col-sm-12 mb-4">
+
+                <div class="widget-footer-title">
+
+                    <h4 class="widget-title"><span>O</span>UR SERVICES</h4>
+
+                </div>
+
+                <div class="row">
+
+                    <div class="col-12 col-md-6 mb-3">
+
+                        <div class="footer-recent-post">
+
+                            <ul class="menu">
+
+                                <li><a href="/services/revenue-cycle-management-services">Revenue Cycle Management</a></li>
+
+                                <li><a href="/services/medical-billing-services">Medical Billing Services</a></li>
+
+                                <li><a href="/services/medical-coding-services">Medical Coding Services</a></li>
+
+                                <li><a href="/services/medical-credentialing-services">Medical Credentialing Services</a></li>
+
+                                <li><a href="/services/denial-management-services">Denial Management Services</a></li>
+
+                                <li><a href="/services/medical-billing-audit">Medical Billing Audit</a></li>
+
+                                <li><a href="/services/account-receiveable-management">Account Receivable Management</a></li>
+
+                                <li><a href="/services/home-health-hospice-billing">Home Health Hospice Billing</a></li>
+
+                                <li><a href="/services/quantum-computing-services">Quantum Computing Services</a></li>
+
+                                <li><a href="/design-digital-solutions">Design & Digital Solutions</a></li>
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-12 col-md-6 mb-3">
+
+                        <div class="footer-recent-post">
+
+                            <ul class="menu">
+
+                                <li><a href="/services/software-development-services">Software Development Services</a></li>
+
+                                <li><a href="/services/mobile-app-development">Mobile App Development</a></li>
+
+                                <li><a href="/services/cloud-consulting-services">Cloud Consulting Services</a></li>
+
+                                <li><a href="/services/artificial-intelligence-machine-learning">AI/ML Applications</a></li>
+
+                                <li><a href="/services/video-animation">Video Animation</a></li>
+
+                                <li><a href="/services/business-intelligence">Business Intelligence</a></li>
+
+                                <li><a href="/services/web-development">Web Development</a></li>
+
+                                <li><a href="/services/e-commerce">E-Commerce Development</a></li>
+
+                                <li><a href="/services/robotic-process-automation">Robotic Automation</a></li>
+
+                                <li><a href="/services/healthcare-biotech-software">Biotech Software</a></li>
+
+                            </ul>
+
+                              <div class="company_icon" style='#888'>
+
+                            <!--<a href="https://www.facebook.com/DilijentSystems" target="_blank"><i class="fab fa-facebook-f" ></i></a> -->
+
+                            <a href="https://www.linkedin.com/company/dilijent-systems-worldwide/?viewAsMember=true" target="_blank"><i class="fab fa-linkedin"></i></a>
+
+                            <a href="https://twitter.com/DilijentL35576" target="_blank"><i class="fab fa-twitter"></i></a>
+
+                            <a href="https://www.instagram.com/dilijentsystems/" target="_blank"><i class="fab fa-instagram"></i></a>
+
+                            <a href="https://www.facebook.com/DilijentSystems" target="_blank"><i class="fab fa-facebook"></i></a>
+
+                        </div>
+
+                
+
+            </div>
+
+        </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+             
+
+        <!-- Footer Bottom Row -->
+
+      <div class="row footer-bottom">
+
+    <div class="col-12 col-md-8 text-md-left mb-3 mb-md-0">
+
+                <div class="footer-bottom-content">
+
+                    <div class="footer-bottom-content-copy">
+
+                         <div class="footer-bottom-menu">
+
+                    <p>Copyright © 2025. All rights reserved to <a href="/"><span>Dilijent Systems</span></a>
+
+                </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+<div class="col-12 col-md-4 text-md-right">
+
+                <div class="rep-logos">
+
+                    <div class="google-reviews">
+
+                     <img src="/assets/images/google-review.webp" alt="google review image" class="img-fluid" width="682" height="443">
+
+
+
+                    </div>
+
+                </div>
+
+                
+               
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<style>
+
+
+
+@media (max-width: 767px) {
+
+    .footer-middle {
+
+        text-align: center;
+
+    }
+
+
+
+    .footer-inner {
+
+        flex-direction: column;
+
+        align-items: center;
+
+        text-align: center;
+
+    }
+
+
+
+    .footer-socail-icon, 
+
+    .footer-socail-info, 
+
+    .footer-socail-info2 {
+
+        display: inline-block;
+
+        margin-bottom: 10px;
+
+    }
+
+
+
+    .footer-bottom {
+
+        text-align: center;
+
+    }
+
+
+
+    .footer-bottom .text-right,
+
+    .footer-bottom .text-md-right {
+
+        text-align: center !important;
+
+    }
+
+    
+
+}
+
+
+
+
+
+</style>
+
+<!--==================================================-->
+
+<!-- End dreamit Footer Middle Area -->
+
+<!--==================================================-->
+
+<script src="/assets/js/bundle.min.js" defer></script>
+
+
+           
+            <div id="modal-form">
+
+                <div class="meeting-modal-header">
+                    <h3>Request a callback</h3>
+
+                    
+                    
+
+                    <div id="close-form-modal" style="width:24px; height: 24px">
+                        <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M17 0.375C7.8325 0.375 0.375 7.8325 0.375 17C0.375 26.1675 7.8325 33.625 17 33.625C26.1675 33.625 33.625 26.1675 33.625 17C33.625 7.8325 26.1675 0.375 17 0.375ZM17 31.25C9.14231 31.25 2.75 24.8577 2.75 17C2.75 9.14231 9.14231 2.75 17 2.75C24.8577 2.75 31.25 9.14231 31.25 17C31.25 24.8577 24.8577 31.25 17 31.25Z" fill="#595959" />
+                            <path d="M22.8783 22.8781C22.7683 22.989 22.6374 23.0769 22.4932 23.1369C22.349 23.197 22.1944 23.2279 22.0382 23.2279C21.882 23.2279 21.7273 23.197 21.5832 23.1369C21.439 23.0769 21.3081 22.989 21.198 22.8781L17.0002 18.6791L13.0126 22.6679C12.9026 22.7786 12.7717 22.8664 12.6277 22.9263C12.4836 22.9862 12.3291 23.0171 12.173 23.0171C12.017 23.0171 11.8625 22.9862 11.7184 22.9263C11.5743 22.8664 11.4435 22.7786 11.3335 22.6679C11.1108 22.4452 10.9858 22.1433 10.9858 21.8284C10.9858 21.5135 11.1108 21.2115 11.3335 20.9888L15.3211 17L11.1233 12.801C11.0099 12.6914 10.9194 12.5604 10.8572 12.4155C10.7949 12.2707 10.7622 12.1148 10.7608 11.9572C10.7594 11.7995 10.7895 11.6431 10.8492 11.4972C10.9089 11.3512 10.9971 11.2186 11.1086 11.1071C11.2201 10.9957 11.3526 10.9075 11.4986 10.8478C11.6445 10.7881 11.8009 10.758 11.9586 10.7594C12.1162 10.7608 12.2721 10.7935 12.4169 10.8557C12.5618 10.918 12.6929 11.0084 12.8024 11.1219L17.0002 15.3209L20.9878 11.3321C21.0974 11.2186 21.2284 11.1282 21.3733 11.0659C21.5182 11.0037 21.674 10.9709 21.8317 10.9696C21.9893 10.9682 22.1457 10.9982 22.2917 11.058C22.4376 11.1177 22.5702 11.2058 22.6817 11.3173C22.7932 11.4288 22.8814 11.5614 22.9411 11.7074C23.0008 11.8533 23.0308 12.0097 23.0294 12.1673C23.0281 12.325 22.9953 12.4808 22.9331 12.6257C22.8708 12.7706 22.7804 12.9016 22.667 13.0112L18.6793 17L22.8771 21.199C23.0998 21.4217 23.2248 21.7237 23.2248 22.0386C23.2248 22.3534 23.0998 22.6554 22.8771 22.8781H22.8783Z" fill="#595959" />
+                        </svg>
+                    </div>
+
+
+                </div>
+
+
+                <form action="#" method="POST" class="floatable" novalidate id="require-callbackform">
+
+                
+
+                <div class="row">
+
+
+
+                <div class="col-12 col-sm-6">
+
+                <div class="field-wrap first-block">
+
+                    <select name="i-am" id="i-am" class="form-select form-control not-empty" required>
+                            <option value=""></option>
+                    </select>
+                        <label for="i-am" class="form-label float-label">Interested In</label>
+                        <label class="float-error">This field is required</label>
+                    </div>
+
+                </div>
+                <div class="col-12 col-sm-6" id="rcm-profession-block">
+
+                <div class="field-wrap">
+
+                <select name="profession" id="profession" class="form-select form-control not-empty" required>
+                    
+                    <option value=""></option>
+                    <option value="Physician">Physician</option>
+                    <option value="Healthcare Provider">Healthcare Provider</option>
+                    <option value="Practice Staff">Practice Staff</option>
+                    <option value="Laboratory Staff">Laboratory Staff</option>
+                    <option value="Consultant">Consultant</option>
+                    <option value="Hospital Staff">Hospital Staff</option>
+                    <option value="Others">Others</option>
+                </select>
+
+                <label for="profession" class="form-label float-label">I am</label>
+                <label class="float-error">This field is required</label>
+
+                </div>
+
+                </div>
+
+                </div>
+
+
+                    <div class="field-wrap">
+                        <input type="text" name="company-name" id="company-name" class="form-control">
+                        <label for="company-name" class="form-label float-label">Company Name</label>
+                        <label class="float-error">This field is required</label>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 col-sm-6">
+                            <div class="field-wrap">
+                                <input type="text" name="first-name" id="first-name" class="form-control" required>
+                                <label for="first-name" class="form-label float-label">First Name</label>
+                                <label class="float-error">default fname</label>
+                            </div>
+                        </div>
+
+                        <div class="col-12 col-sm-6">
+                            <div class="field-wrap">
+                                <input type="text" name="last-name" id="last-name" class="form-control" required>
+                                <label for="last-name" class="form-label float-label">Last Name</label>
+                                <label class="float-error">This field is required</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="field-wrap">
+                        <input type="text" name="email" id="email" class="form-control error" required>
+                        <label for="email" class="form-label float-label">Email</label>
+                        <label class="float-error"></label>
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="col-12 col-sm-6">
+
+                            <div class="field-wrap">
+                                <input type="tel" name="telephone" id="telephone" class="form-control" required>
+                                <label for="telephone" class="form-label float-label">Telephone</label>
+                                <label class="float-error">This field is required</label>
+                            </div>
+
+                        </div>
+
+                        <div class="col-12 col-sm-6">
+
+                            <div class="field-wrap">
+                                <input type="tel" name="workphone" id="workphone" class="form-control">
+                                <label for="workphone" class="form-label float-label">Work Phone</label>
+                                <label class="float-error">This field is required</label>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="field-wrap">
+                        <label for="comments" class="form-label comments-label">Comments</label>
+                        <textarea name="comments" id="comments" class="form-control" rows="2" placeholder="Your comments here..."></textarea>
+                        <label class="float-error">Please add your message here.</label>
+                    </div>
+                    <div class="mt-2">
+                        <div class="d-flex justify-content-center">
+                            <button type="submit" class="request-form-submit">Send Request</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <script>
+
+
+            const pathSegments = window.location.pathname.split('/').filter(Boolean);
+            let serviceName = null;
+
+            if (pathSegments[0] === 'services' && pathSegments[1]) {
+                serviceName = pathSegments[1];
+            }
+
+            console.log('SERVICE NAME', serviceName);
+
+
+                const validateEmail2 = (email) => {
+                    return String(email)
+                        .toLowerCase()
+                        .match(
+                            /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|.(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
+                        );
+                };
+
+                const containsOnlyNumbers = (inputString) => {
+                    // Use a regular expression to check if the string contains only numbers
+                    return /^\d+$/.test(inputString);
+                }
+
+                const requestForm = document.getElementById('require-callbackform');
+
+                if (requestForm) {
+
+                    console.log('inside a request form');
+
+                    let dataSection;
+
+                    var subField = null;
+                    var triggerOrigin = null;
+                    let closeFormModal = document.getElementById("close-form-modal");
+
+                    closeFormModal.addEventListener('click', e => {
+                        e.preventDefault();
+                        document.body.classList.remove("modal-form-open");
+                    });
+
+                    let servicesCTA = document.querySelectorAll('.service-cta');
+                    let rcmPressionBlock = document.getElementById('rcm-profession-block');
+
+                    const handleServiceCTAEvent = (e) => {
+
+                        e.preventDefault();
+                        let targetAnchor = e.target.closest('a');
+                        subField = targetAnchor.getAttribute('data-subfield');
+                        triggerOrigin = targetAnchor.getAttribute('data-origin');
+
+                        dataSection = targetAnchor.getAttribute('data-service');
+
+                        if(dataSection == 'RCM') {
+                            rcmPressionBlock.style.display = 'block';
+                        }
+                        else {
+                            rcmPressionBlock.style.display = 'none';
+                        }
+
+                        console.log('triggerOrigin', triggerOrigin);
+
+                        if(true)
+                        {
+
+                            /* MEETING MODAL */
+                            console.log('data-section', dataSection);
+                            document.body.classList.remove('meeting-modal-open');
+                            var dropSelect = document.querySelector("select[name='i-am']");
+
+                            if(dataSection == 'RCM') {
+
+                                console.log('rmc drops active');
+
+                                dropSelect.innerHTML = "";
+                                var rmcOptions = [
+                                { value: "", text: "" },
+                                { value: "RCM", text: "Revenue Cycle Management" },
+                                { value: "Medical Billing", text: "Medical Billing" },
+                                { value: "Medical Coding", text: "Medical Coding" },
+                                { value: "Medical Credentialing", text: "Medical Credentialing" },
+                                { value: "Denial Management Services", text: "Denial Management Services" },
+                                { value: "Medical Billing Audit", text: "Medical Billing Audit" },
+                                { value: "Account Receivable Management", text: "Account Receivable Management"},
+                                { value: "Home Health & Hospice Billing", text: "Home Health & Hospice Billing"},
+                                { value: "CONSULTATION", text: "Consultation"},
+                                { value: "Others ", text: "Other" }
+
+                                ];
+
+                                rmcOptions.forEach(optionData => {
+                                    var option = document.createElement("option");
+                                    option.value = optionData.value;
+                                    option.textContent = optionData.text;
+                                    dropSelect.appendChild(option);
+                                });
+                                
+                            }
+
+                            else if(dataSection == 'ITS') {
+
+                                console.log('IT drops active');
+
+                                dropSelect.innerHTML = "";
+
+                               var itOptions; 
+
+                                if(serviceName === null || serviceName == 'software-development-services') {
+
+                                    itOptions = [
+                                { value: "", text: "" },
+                                { value: "Mobile App Development", text: "Mobile App Development" },
+                                { value: "SEO", text: "SEO" },
+                                { value: "Cloud Computing", text: "Cloud Computing" },
+
+                                { value: "AI/ML Applications", text: "AI/ML Applications" },
+                                { value: "Business Intelligence", text: "Business Intelligence" },                            
+                                { value: "Video Animation", text: "Video Animation" },
+
+
+                                { value: "Web Development", text: "Web Development" },
+                                { value: "E-Commerce Development", text: "E-Commerce Development" },
+                                { value: "Robotic Automation", text: "Robotic Automation" },
+
+                                { value: "Biotech Software", text: "Biotech Software" },
+                                { value: "Quantum Computing", text: "Quantum Computing" },
+
+                                { value: "Constulation", text: "Consultation" },
+                                { value: "Others", text: "Others" }
+                                ];
+
+                                }
+                                else {
+
+                                    itOptions = [
+
+                                        { value: "", text: "" },
+                                        { value: "Have a Project to Discuss", text: "Have a Project to Discuss" },
+                                        { value: "Consultation", text: "Consultation" },
+                                        { value: "Others", text: "Others" },
+
+                                    ];
+
+                                }
+                                
+                                
+
+                                itOptions.forEach(optionData => {
+                                    var option = document.createElement("option");
+                                    option.value = optionData.value;
+                                    option.textContent = optionData.text;
+                                    dropSelect.appendChild(option);
+                                });
+                            }                          
+                        }
+
+                        console.log("subfield", subField);
+                        document.body.classList.add("modal-form-open");
+                    }
+
+
+                    servicesCTA.forEach((servieItemCTA, index) => {
+
+                        console.log(servieItemCTA, index);
+
+                        servieItemCTA.addEventListener("click", handleServiceCTAEvent);
+
+                    });
+
+
+                    /*field variables*/
+                    let selectValueform = document.getElementById('i-am');
+                    let professionSelect = document.getElementById('profession');
+                    var inputCompanyName = document.getElementById('company-name');
+                    var inputFirstName = document.getElementById('first-name');
+                    var inputLastName = document.getElementById('last-name');
+                    var inputEmail = document.getElementById('email');
+                    var inputTelephone = document.getElementById('telephone');
+                    var inputWorkPhone = document.getElementById('workphone');
+                    var inputComments = document.getElementById('comments');
+                    var error = false;
+
+                    selectValueform.addEventListener('change', function(e) {
+                        console.log('cating change event of the select field', selectValueform.value);
+                        if (selectValueform.value == "") {
+                            selectValueform.classList.remove('not-empty');
+                            console.log('is empty');
+                        } else {
+                            selectValueform.classList.add('not-empty');
+                            console.log('not empty');
+                            selectValueform.classList.remove('error');
+                        }
+                    });
+
+                    requestForm.addEventListener('submit', function(e) {
+
+                        error = false;
+                        e.preventDefault();
+                        console.log('dataSection inside submit', dataSection);
+                        console.log('start submission error status', error);
+
+                        let formData = new FormData(requestForm);
+                        var iam = formData.get('i-am');
+                        var profession = formData.get('profession');
+                        var company = formData.get('company-name');
+                        var firstName = formData.get('first-name');
+                        var lastName = formData.get('last-name');
+                        var email = formData.get('email');
+                        var telephone = formData.get('telephone');
+                        var workPhone = formData.get('workphone');
+                        var message = formData.get('comments');
+                        var serviceType = formData.get('serviceType');
+                        serviceType = dataSection;
+
+                        if(serviceName != null) {
+                            subField = serviceName; 
+                        }
+
+
+                        var payload = {
+                            serviceType,
+                            subField,
+                            iam,
+                            company,
+                            firstName,
+                            lastName,
+                            email,
+                            telephone,
+                            workPhone,
+                            message
+                        };
+
+                        if (iam == "" || iam.length == 0) {
+                            error = true;
+                            selectValueform.classList.add('error');
+                            document.querySelector("#i-am ~ .float-error").textContent = "Choose your area of expertise";
+                        }
+
+                        if(dataSection == 'RCM') {
+                            if(profession =="" || profession.length == 0) {
+                                document.querySelector("#profession ~ .float-error").textContent = "Choose your profession";
+                            }
+                            payload.profession = profession;                          
+                        }
+
+                        if (company != "" && company.length < 3) {
+                            error = true;
+                            inputCompanyName.classList.add('error');
+                            document.querySelector("#company-name ~ .float-error").textContent = "min. 3 characters";
+                        }
+                        else {
+                            inputCompanyName.classList.remove('error');
+                        }
+
+                        if (firstName == "") {
+                            error = true;
+                            inputFirstName.classList.add('error');
+                            document.querySelector("#first-name ~ .float-error").textContent = "Firstname is required";
+                        }
+
+                        if (firstName.length < 3 && firstName != "") {
+                            error = true;
+                            inputFirstName.classList.add('error');
+                            document.querySelector("#first-name ~ .float-error").textContent = "min. 3 characters";
+                        }
+
+                        if (firstName.length >= 3 && firstName != "") {
+                            inputFirstName.classList.remove('error');
+                        }
+
+
+                        if (lastName == "") {
+                            error = true;
+                            inputLastName.classList.add('error');
+                            document.querySelector("#last-name ~ .float-error").textContent = "required";
+                        } else if (lastName.length < 3) {
+                            error = true;
+                            inputFirstName.classList.add('error');
+                            document.querySelector("#last-name ~ .float-error").textContent = "min. 3 characters";
+                        } else {
+                            error = false;
+                            inputLastName.classList.remove('error');
+                        }
+
+                        if (email.length == 0) {
+                            console.log("email not provided hit");
+                            document.querySelector("#email ~ .float-error").textContent = "required";
+                            inputEmail.classList.add("error");
+                            console.log('input email', inputEmail);
+                            error = true;
+                        } else if (!validateEmail2(email)) {
+
+                            document.querySelector("#email ~ .float-error").textContent = "Invalid Email";
+                            inputEmail.classList.add('error');
+                            error = true
+                        } else if (validateEmail2(email)) {
+                            document.querySelector("#email ~ .float-error").textContent = "";
+                            inputEmail.classList.remove('error');
+                        }
+
+                        if (telephone == "") {
+                            document.querySelector("#telephone ~ .float-error").textContent = "required";
+                            inputTelephone.classList.add('error');
+                            console.log('tel was empty');
+                            error = true;
+                        } else if (telephone.length < 6) {
+                            document.querySelector("#telephone ~ .float-error").textContent = "min. 6 characters";
+                            inputTelephone.classList.add('error');
+                            error = true;
+                            console.log('tel lenght less then 6');
+                        } else if (!containsOnlyNumbers(telephone)) {
+
+                            document.querySelector("#telephone ~ .float-error").textContent = "only numbers are allowed";
+                            inputTelephone.classList.add('error');
+                            error = true;
+                            console.log('tel not pure numbers');
+
+                        } else {
+                            inputTelephone.classList.remove('error');
+                        }
+
+
+                        if (workPhone != "" && workPhone.length < 6) {
+                            document.querySelector("#workphone ~ .float-error").textContent = "min. 6 characters";
+                            inputWorkPhone.classList.add('error');
+                            error = true;
+                        } else if (workPhone != "" && !containsOnlyNumbers(workPhone)) {
+                            document.querySelector("#workphone ~ .float-error").textContent = "only numbers are allowed";
+                            inputWorkPhone.classList.add('error');
+                            error = true;
+                        } else {
+                            inputWorkPhone.classList.remove('error');
+                        }
+
+                        if (message == "") {
+                            inputComments.classList.add('error');
+                            error = true;
+                        } else {
+                            inputComments.classList.remove('error');
+                        }
+
+                        if (error) {
+                            console.log('error seen on the form');
+                            return false;
+                        }
+
+                        console.log('this message must not bee seen post error encounter');
+
+                        let dataPayload = JSON.stringify(payload);
+
+
+                        showAlertMessage('info', "Please wait while we are processing your request.");
+
+
+                        (async () => {
+                            const rawResponse = await fetch('/api/modal-form', {
+                                method: 'POST',
+                                headers: {
+                                    'Accept': 'application/json',
+                                    'Content-Type': 'application/json'
+                                },
+                                body: dataPayload
+                            });
+
+
+                            const content = await rawResponse.json();
+
+                            if (content.status == 'Success') {
+                                showAlertMessage('success', content.message);
+                                requestForm.reset();
+                                document.body.classList.remove("modal-form-open");
+
+                            } else {
+                                showAlertMessage('error', content.message);
+                            }
+
+
+                        })();
+                        
+
+
+                    }); /* end sending */
+
+                }
+            </script>
+<!--Start of Tawk.to Script-->
+
+
+<!--End of Tawk.to Script-->
+
+
+</body>
+</html>
+
+
+
