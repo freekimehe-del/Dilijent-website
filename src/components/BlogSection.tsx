@@ -27,7 +27,7 @@ const blogs = [
 
 const BlogSection = () => {
   return (
-    <section id="blog" className="py-20 bg-section-alt">
+    <section id="blog" className="py-20 bg-white">
       <div className="container-custom">
         <div className="text-center mb-12">
           <p className="text-primary font-bold tracking-widest uppercase mb-2 text-sm">LATEST BLOG</p>
