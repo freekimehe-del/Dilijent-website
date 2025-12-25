@@ -49,7 +49,7 @@ const AboutSection = () => {
                   size="lg"
                   className="w-full md:w-auto min-w-[160px] font-heading font-semibold tracking-wide hover:scale-105 hover:bg-red-700 transition-all duration-300 shadow-md hover:shadow-lg"
                 >
-                  Learn More
+                  Learn More About Us
                 </Button>
               </a>
             </div>

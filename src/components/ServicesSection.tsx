@@ -25,15 +25,15 @@ const services = [
 
 const ServicesSection = () => {
   return (
-    <section id="services" className="py-24 md:py-32 bg-section-alt">
+    <section id="services" className="py-24 md:py-32 bg-slate-900 text-white">
       <div className="container-custom">
         <FadeIn direction="down">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold font-heading mb-6 uppercase">
+            <h2 className="text-4xl md:text-5xl font-bold font-heading mb-6 uppercase text-white">
               OUR CORE PROFESSIONAL <span className="text-primary">SERVICES</span>
             </h2>
-            <div className="w-full h-px bg-border max-w-7xl mx-auto mb-6" />
-            <p className="text-muted-foreground text-lg max-w-5xl mx-auto leading-relaxed">
+            <div className="w-full h-px bg-white/20 max-w-7xl mx-auto mb-6" />
+            <p className="text-gray-400 text-lg max-w-5xl mx-auto leading-relaxed">
               Our services span IT Solutions, Revenue Cycle Management, and Digital Marketing. For each domain, we deliver comprehensive solutions using the latest technologies and tools, designed to meet your business needs today and in the future.
             </p>
           </div>

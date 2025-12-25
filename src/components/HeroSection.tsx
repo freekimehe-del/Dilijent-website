@@ -48,7 +48,7 @@ const HeroSection = () => {
         </FadeIn>
 
         <FadeIn direction="up" delay={0.2} duration={0.8}>
-          <p className="text-gray-600 text-lg mb-10 font-body font-medium">
+          <p className="text-gray-600 text-xl mb-10 font-body font-medium">
             Our Expertise Stands on Two Proven Pillars.
           </p>
         </FadeIn>
