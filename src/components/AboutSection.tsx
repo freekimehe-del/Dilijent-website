@@ -1,5 +1,5 @@
 import { Button } from '@/components/ui/button';
-import aboutImage from '@/assets/about-team-light.jpg';
+import aboutVideo from '@/assets/diligent-systems-video.mp4';
 
 const AboutSection = () => {
   return (
@@ -56,11 +56,13 @@ const AboutSection = () => {
           </div>
 
           <div className="relative">
-            <img
-              src={aboutImage}
-              alt="RCM Services"
+            <video
+              src={aboutVideo}
               className="w-full rounded-lg shadow-xl"
-              loading="lazy"
+              autoPlay
+              loop
+              muted
+              playsInline
             />
           </div>
         </div>
