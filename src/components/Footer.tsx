@@ -1,5 +1,5 @@
 import { Phone, Mail, MapPin } from 'lucide-react';
-import logo from '@/assets/logo.png';
+import logo from '@/assets/dilijent-logo-v2-cropped.png';
 
 const Footer = () => {
   const quickLinks = [

@@ -25,37 +25,37 @@ const services = [
 
 const ServicesSection = () => {
   return (
-    <section id="services" className="py-24 md:py-32 bg-slate-900 text-white">
+    <section id="services" className="py-10 md:py-16 bg-slate-900 text-white">
       <div className="container-custom">
         <FadeIn direction="down">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold font-heading mb-6 uppercase text-white">
+          <div className="text-center mb-8 md:mb-10">
+            <h2 className="text-2xl md:text-3xl font-bold font-heading mb-3 uppercase text-white tracking-tight">
               OUR CORE PROFESSIONAL <span className="text-primary">SERVICES</span>
             </h2>
-            <div className="w-full h-px bg-white/20 max-w-7xl mx-auto mb-6" />
-            <p className="text-gray-400 text-lg max-w-5xl mx-auto leading-relaxed">
+            <div className="w-full h-px bg-white/20 max-w-[80px] mx-auto mb-3" />
+            <p className="text-gray-400 text-sm max-w-3xl mx-auto leading-relaxed">
               Our services span IT Solutions, Revenue Cycle Management, and Digital Marketing. For each domain, we deliver comprehensive solutions using the latest technologies and tools, designed to meet your business needs today and in the future.
             </p>
           </div>
         </FadeIn>
 
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
           {services.map((service, index) => (
-            <FadeIn key={index} delay={index * 0.2} duration={0.5} className="h-full">
+            <FadeIn key={index} delay={index * 0.1} duration={0.5} className="h-full">
               <div
-                className="bg-white shadow-lg border border-gray-100 rounded-lg p-8 text-center border-b-4 border-transparent hover:border-primary transition-all duration-300 group h-full hover:-translate-y-2 hover:shadow-2xl flex flex-col items-center"
+                className="bg-white shadow-sm border border-gray-100 rounded-xl p-5 text-center border-b-4 border-transparent hover:border-primary transition-all duration-300 group h-full hover:-translate-y-1 hover:shadow-lg flex flex-col items-center"
               >
-                <div className="w-20 h-20 bg-blue-50 rounded-full flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300 animate-float">
-                  <service.icon size={40} className={`text-iconBlue group-hover:text-primary transition-colors duration-300 ${service.animationClass}`} strokeWidth={1.5} />
+                <div className="w-14 h-14 bg-blue-50 rounded-lg flex items-center justify-center mb-4 group-hover:scale-105 transition-transform duration-300">
+                  <service.icon size={28} className={`text-iconBlue group-hover:text-primary transition-colors duration-300 ${service.animationClass}`} strokeWidth={1.5} />
                 </div>
-                <h3 className="text-gray-900 font-heading font-bold text-2xl mb-4 group-hover:text-primary transition-colors duration-300">
+                <h3 className="text-gray-900 font-heading font-bold text-lg mb-2 group-hover:text-primary transition-colors duration-300">
                   {service.title}
                 </h3>
-                <p className="text-gray-600 text-sm leading-relaxed mb-8 flex-grow">
+                <p className="text-gray-600 text-sm leading-relaxed mb-5 flex-grow">
                   {service.description}
                 </p>
-                <a href="#contact" aria-label={`Learn more about ${service.title}`} className="mt-auto">
-                  <Button variant="outline" className="border-primary text-primary hover:bg-primary hover:text-white transition-colors duration-300 font-semibold tracking-wide">
+                <a href="#contact" aria-label={`Learn more about ${service.title}`} className="mt-auto w-full">
+                  <Button variant="outline" className="w-full border-primary text-primary hover:bg-primary hover:text-white transition-colors duration-300 font-semibold tracking-wide text-xs py-2 h-8 rounded-md">
                     Learn More
                   </Button>
                 </a>
