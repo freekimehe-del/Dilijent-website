@@ -1,5 +1,5 @@
 import { Button } from '@/components/ui/button';
-import aboutVideo from '@/assets/diligent-systems-video.mp4';
+
 
 const AboutSection = () => {
   return (
@@ -56,13 +56,10 @@ const AboutSection = () => {
           </div>
 
           <div className="relative">
-            <video
-              src={aboutVideo}
+            <img
+              src="/consulting-meeting.png"
+              alt="Diligent Systems Consulting Meeting"
               className="w-full rounded-lg shadow-xl"
-              autoPlay
-              loop
-              muted
-              playsInline
             />
           </div>
         </div>
