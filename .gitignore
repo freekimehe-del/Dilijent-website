@@ -81,9 +81,8 @@ typings/
 .next
 out
 
-# Nuxt.js build / generate output
+# Nuxt.js build output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -116,4 +115,15 @@ dist
 .pnp.*
 
 # Vite
-.vite/
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
